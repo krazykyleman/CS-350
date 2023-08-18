@@ -1,1 +1,1 @@
-# CS-350
+# CS-350 Projects by Kyle B. Wucik
